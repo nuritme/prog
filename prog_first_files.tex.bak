@@ -53,6 +53,10 @@ linkcolor={red!80!black}
 }
 \begin{document}
 
+\section{Background}
+We present the current state of HEGRAM, a deep linguistic processing grammar of Modern Hebrew. HEGRAM is implemented in the
+Linguistic Knowledge Builder (LKB) system and grounded in the theoretical framework of
+Head-driven Phrase Structure Grammar (HPSG).
 
 \section{HPSG}
 Head-Driven Phrase Structure Grammar (HPSG; \citealt{PollardSag94}) is  a constraint-based
